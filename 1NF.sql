@@ -1,3 +1,5 @@
+-- GENRES TABLE
+
 CREATE TABLE one_nf AS
 SELECT
     id,
@@ -24,3 +26,6 @@ FROM final_one;
 
 DROP TABLE final_one;
 DROP TABLE one_nf;
+
+
+-- NAMES TABLE
